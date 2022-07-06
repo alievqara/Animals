@@ -1,0 +1,15 @@
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\vStudio\Animals\Animals\bin\Debug\net6.0\Animals.exe
+D:\vStudio\Animals\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\vStudio\Animals\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\vStudio\Animals\Animals\bin\Debug\net6.0\Animals.dll
+D:\vStudio\Animals\Animals\bin\Debug\net6.0\Animals.pdb
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.dll
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.pdb
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\vStudio\Animals\Animals\obj\Debug\net6.0\ref\Animals.dll
